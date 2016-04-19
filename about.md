@@ -1,15 +1,31 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: GNU の青色申告について
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+GNU の青色申告は、個人事業主のエンジニアが無料の会計ソフトウェア GnuCash で青色申告する顛末を書いていくブログです。やよいの青色申告と GnuCash を並行運用しながら試行錯誤していきます。
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+## ブログを書き始めた経緯 ##
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+2016年に個人事業主として4期目に入り、2016年3月に3回目の青色申告を経験しました。これまではやよいの青色申告にお世話になってきましたが、昨年は売上が少なかったこともあり、それほど会計ソフトに助けてもらう必要がないと感じました。今年も売上は少ない予定なので、無料の会計ソフトウェア GnuCash で青色申告できるのではないかと思い、このブログを始めてみました。
+
+## ブログの方針 ##
+
+やよいの青色申告と GnuCash を並行運用しながら試行錯誤したことを記事にしていきます。
+
+私と同じ個人事業主のエンジニアが青色申告する場合は参考になるのではないでしょうか。また下記のような属性の人にも有用なブログかもしれません。
+
+* 個人事業主である
+* 青色申告である
+* 免税事業者である
+* 複式簿記の知識がある
+
+最終的には電子書籍に体系的にまとめたいと思っています。
+
+## 著者の情報 ##
+
+「おもしぇてっく」という屋号で個人事業主を営んでいるエンジニアの土田拓也です。常駐エンジニアとして Ruby や Scala で Web アプリケーションの開発をしています。
+
+GNU の青色申告について質問などございましたらメールにてご連絡ください。ただし税理士の独占業務に関わることには回答できません。
+
+<a href="mailto:{{ site.email }}">{{ site.email }}</a>
