@@ -18,3 +18,10 @@ markdown: kramdown
 
 gems:
   - jekyll-sitemap
+
+# Outputting
+permalink: /:title.html
+
+# Markdown Processors
+kramdown:
+  auto_ids: false
