@@ -10,12 +10,9 @@ title: GNU の青色申告
 tagline: やよいの青色申告から GnuCash へ
 email: takuya0301+gnucash@gmail.com
 description: 個人事業主のエンジニアが無料の会計ソフトウェア GnuCash で青色申告する顛末を書いていくブログです。やよいの青色申告と GnuCash を並行運用しながら試行錯誤していきます。
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://gnucash.jp" # the base hostname & protocol for your site
+url: https://gnucash.jp
 
-# Build settings
-markdown: kramdown
-
+# Plugins
 gems:
   - jekyll-sitemap
 
