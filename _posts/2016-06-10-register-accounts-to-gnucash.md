@@ -21,7 +21,7 @@ GnuCash を起動します。
 
 ![メニューの「勘定科目ページを新規作成」という項目をクリック](/images/reagister-accounts-new-accounts-page.png)
 
-「勘定科目」というタブが追加され、空の「勘定科目ページが」表示されます。
+「勘定科目」というタブが追加され、空の「勘定科目ページ」が表示されます。
 
 ![「勘定科目ページ」が表示された「未保存の帳簿」のウィンドウ](/images/reagister-accounts-blank-accounts-page.png)
 
